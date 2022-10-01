@@ -2,7 +2,7 @@
 
 Recreating the Pacman arcade game using C++ and the S2D library in Visual Studio 2019.
 
-![My Pacman Project](https://github.com/WedgeManWik/Pacman-Readme-Website/blob/master/PacmanImage1.png?raw=true)
+![My Pacman Project](https://github.com/WedgeManWik/Pacman-Readme-Website/blob/master/PacmanImg1.png?raw=true)
 
 This is the first C++ project I've ever created - so I'm pretty happy with how it went. I tried recreating the fundamentals of the Pacman video game, whilst also trying to add some original aesthetics.
 
