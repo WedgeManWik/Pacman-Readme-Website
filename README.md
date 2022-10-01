@@ -45,7 +45,7 @@ grass block, and by making pacman explode when you die, however, I would have lo
 For example, different enemies such as zombies or aliens, different collectable items like a speed boost or a random location teleporter, and maybe
 even different game modes for the game.<br>
 
-####What Would you do next time?
+#### What Would you do next time?
 If I was to make Pacman again, I would definitely add a main menu, where you can create or log in to a new account, open up a high score table,
 a customisation feature, different game modes, and a lot more. If I wanted to, I could create multiple game modes, and some could be multiplayer!
 For example, a game mode where you and the other players spawn in the same map and whoever eats the most munchies wins, the cherries turn you into
