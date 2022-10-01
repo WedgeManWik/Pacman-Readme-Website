@@ -4,7 +4,7 @@ Recreating the Pacman arcade game using C++ and the S2D library in Visual Studio
 
 ![My Pacman Project](https://github.com/WedgeManWik/Pacman-Readme-Website/blob/master/PacmanImage.png?raw=true)
 
-I didn't want to exactly re-create the original game, instead I felt like adding my own twists and turns would be more fun.
+This is the first C++ project I've ever created - so I'm pretty happy with how it went. I tried recreating the fundamentals of the Pacman video game, whilst also trying to add some original aesthetics.
 
 ## Game Description 
 
